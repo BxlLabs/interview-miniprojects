@@ -1,4 +1,4 @@
-# Broxel Fintech » Full-stack Engineer Exercise
+# Full-stack Engineer Exercise
 
 The goal of this exercise is to:
 
@@ -8,7 +8,7 @@ The goal of this exercise is to:
 
 ## Introduction
 
-This exercise is to see how comfortable you are working with a MEAN stack. The will have
+This exercise is to see how comfortable you are working with a MEAN stack. You will have
 to implement a simple API (back-end) and also a simple Angular application (front-end).
 
 ## The API
@@ -38,8 +38,8 @@ book, update an existing book, and delete a book.
 
 You have 5 days to complete this exercise. Use any additional tools / frameworks that you like.
 
-You should implement your solution locally, and then send an email with a working solution when you're finished.
+You can either:
+* Implement your solution locally, in which case you should email a zip file with a standalone, working solution when you're finished, or
+* Upload your project to Github (or other scm) and email us the link to your repository.
 
 Feel free to use any reference materials you may need, but please do not ask anyone for help.
-
-**We ask that you NOT share this exercise with anyone outside of our interview process.**
